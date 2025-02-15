@@ -10,11 +10,11 @@ Libraries used
 Command to install these libraries:
 - 
 If you are using VS code or Idle or command prompt to run the code:
-pip install pygame
-pip install time
-pip install random
+- pip install pygame
+- pip install time
+- pip install random
 
 If you are using google colab or jupyter notebook:
-!pip install pygame
-!pip install time
-!pip install random
+- !pip install pygame
+- !pip install time
+- !pip install random
